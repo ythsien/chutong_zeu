@@ -2306,7 +2306,7 @@ input, select, textarea {
             background-size: cover;
         }
         
-        #header #vicpic {
+        #header #vicpic iframe{
             display: none;
         }
         

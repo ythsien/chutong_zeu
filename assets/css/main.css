@@ -2298,6 +2298,20 @@ input, select, textarea {
 
 /* Wide */
 
+    @media screen and (max-width: 576px) {
+        
+        #header {
+            background-image: url(/photo/cover.png);
+            background-repeat:no-repeat;
+            background-size: cover;
+        }
+        
+        #header #vicpic {
+            visibility: hidden;
+        }
+        
+    }
+
 	@media screen and (max-width: 1680px) {
 
 		/* Basic */

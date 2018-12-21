@@ -2307,7 +2307,7 @@ input, select, textarea {
         }
         
         #header #vicpic {
-            visibility: hidden;
+            display: none;
         }
         
     }

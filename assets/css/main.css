@@ -2307,7 +2307,7 @@ input, select, textarea {
         }
         
         #vidpic {
-            display: none;
+            display: none !important;
         }
         
     }
